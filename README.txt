@@ -4,4 +4,3 @@ Ex 3 - Files:
 -------------
 * README
 * ex3.py - Models implementation and calculation of accuracy and loss values.
-* Answers.pdf - Answers to the theoretical questions.
